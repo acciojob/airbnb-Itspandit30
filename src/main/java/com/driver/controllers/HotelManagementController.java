@@ -29,7 +29,6 @@ public class HotelManagementController {
         //Incase somebody is trying to add the duplicate hotelName return FAILURE
         //in all other cases return SUCCESS after successfully adding the hotel to the hotelDb.
 
-
         return null;
     }
 
